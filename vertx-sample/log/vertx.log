@@ -1,0 +1,45 @@
+2018-06-04 23:27:21:965 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7485.97000000"}
+2018-06-05 00:20:45:766 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7500.12000000"}
+2018-06-05 01:23:41:363 INFO  RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://192.168.62.128:8080: The target server failed to respond
+2018-06-05 01:23:41:364 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 01:23:41:367 INFO  RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://192.168.62.128:8080: The target server failed to respond
+2018-06-05 01:23:41:368 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 01:23:41:370 INFO  RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://192.168.62.128:8080: The target server failed to respond
+2018-06-05 01:23:41:370 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 01:25:01:972 INFO  MyController - Inicializando Vertical
+2018-06-05 01:25:02:356 INFO  MyController - Vertical iniciada !!!
+2018-06-05 01:25:17:406 INFO  RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://192.168.62.128:8080: The target server failed to respond
+2018-06-05 01:25:17:407 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 01:25:17:410 INFO  RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://192.168.62.128:8080: Connection reset
+2018-06-05 01:25:17:410 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 01:25:17:412 INFO  RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://192.168.62.128:8080: The target server failed to respond
+2018-06-05 01:25:17:413 INFO  RetryExec - Retrying request to {}->http://192.168.62.128:8080
+2018-06-05 18:45:06:230 INFO  MyController - Inicializando Vertical
+2018-06-05 18:45:06:826 INFO  MyController - Vertical iniciada !!!
+2018-06-05 18:58:03:078 INFO  MyController - Inicializando Vertical
+2018-06-05 18:58:03:469 INFO  MyController - Vertical iniciada !!!
+2018-06-05 19:00:04:907 INFO  MyController - Inicializando Vertical
+2018-06-05 19:00:05:288 INFO  MyController - Vertical iniciada !!!
+2018-06-05 19:00:57:346 INFO  TestMyController - true
+2018-06-05 19:07:20:224 INFO  TestMyController - true
+2018-06-05 19:07:20:230 INFO  TestMyController - true
+2018-06-05 19:07:20:236 INFO  TestMyController - true
+2018-06-05 19:07:20:250 INFO  TestMyController - false
+2018-06-05 19:07:20:259 INFO  TestMyController - true
+2018-06-05 19:07:20:267 INFO  TestMyController - true
+2018-06-05 19:07:20:273 INFO  TestMyController - false
+2018-06-05 19:07:20:278 INFO  TestMyController - false
+2018-06-05 19:07:20:284 INFO  TestMyController - true
+2018-06-05 19:07:20:304 INFO  TestMyController - false
+2018-06-07 20:03:47:820 INFO  MyController - Inicializando Vertical
+2018-06-07 20:03:48:308 INFO  MyController - Vertical iniciada !!!null
+2018-06-07 20:04:24:823 INFO  MyController - Inicializando Vertical
+2018-06-07 20:04:25:247 INFO  MyController - Vertical iniciada !!!caro
+2018-06-07 22:40:41:316 INFO  MyController - Inicializando Vertical
+2018-06-07 22:40:41:724 INFO  MyController - Vertical iniciada !!!null
+2018-06-07 22:48:34:263 INFO  MyController - Inicializando Vertical
+2018-06-07 22:48:34:686 INFO  MyController - Vertical iniciada !!!null
+2018-06-07 22:51:04:737 INFO  MyController - Inicializando Vertical
+2018-06-07 22:51:05:168 INFO  MyController - Vertical iniciada !!!caro
+2018-06-14 01:06:18:783 INFO  MyController - Inicializando Vertical
+2018-06-14 01:06:19:270 INFO  MyController - Vertical iniciada !!!null
